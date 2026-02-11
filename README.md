@@ -1,39 +1,60 @@
-# 🚀 欢迎来到 [你的名字] 的代码空间
+# 👋 你好，我是 Yang Lu
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Building+the+future+with+AI" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Java+Backend+Developer;Distributed+Systems+Specialist;AI+&amp;+RAG+Explorer" alt="Typing SVG" /></a>
 </p>
+
+### 📖 自我介绍 (About Me)
+> 拥有 [X] 年 Java 开发经验，专注于高并发分布式架构与 AI 应用落地。
+> 擅长解决复杂系统的性能瓶颈，并热衷于将大模型技术（RAG）引入传统业务场景。
+> 
+> 🌱 目前正在深入钻研：**云原生架构优化** 与 **Agent 智能体编排**。
 
 ---
 
-### 🛠 核心技能 (点击图标可跳转至对应项目)
+### 🏆 旗舰项目 (Flagship Project)
 
-<p align="left">
-  <a href="你的项目链接A"><img src="https://img.shields.io/badge/前端项目-React-61DAFB?style=for-the-badge&logo=react" /></a>
-  <a href="你的项目链接B"><img src="https://img.shields.io/badge/后端项目-Node.js-339933?style=for-the-badge&logo=nodedotjs" /></a>
-  <a href="你的项目链接C"><img src="https://img.shields.io/badge/大模型-Python-3776AB?style=for-the-badge&logo=python" /></a>
-</p>
+#### 🛒 分布式电商平台与实时推荐系统 (Java + Spark + K8s)
 
----
-
-### 📽️ 项目动态演示 (取代视频的方案)
-
-> **💡 建议：** 如果你有炫酷的 UI 或项目，与其放视频，不如放一张高质量的 **GIF 动图**。它会自动播放，无需访客点击。
-
-| 项目预览 (GIF) | 项目说明 |
+| 系统架构 / 核心演示 (GIF/Image) | 技术指标与贡献 |
 | :--- | :--- |
-| <img src="你的GIF链接.gif" width="300px" /> | **[项目名]**<br>· 实现自动化流程<br>· 提升 50% 效率<br>[🔗 源码直达] |
+| <img src="你的架构图链接.png" width="450px" /> | **核心亮点：**<br>· **高并发**: 支撑百万并发，响应 < 50ms<br>· **智能推荐**: Spark 实时计算，CTR 提升 22%<br>· **AI 赋能**: RAG 系统准确率 92%，降低幻觉 90%<br>· **成本优化**: K8s 自动扩缩容，降低 35% 成本<br>[🚀 源码直达](你的项目链接) |
 
 ---
 
-### 📊 实时开发者画像 (动态更新)
+### 📂 其他精选项目 (Other Projects)
 
-![Metrics](https://metrics.lecoq.io/你的用户名?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FShanghai)
-
----
-
-### 🤝 社交与联系
 <p align="left">
-<a href="你的B站/YouTube链接"><img src="https://img.shields.io/badge/Video-Bilibili-fb7299?style=flat&logo=bilibili" /></a>
+  <a href="项目2链接">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=项目名A&theme=transparent" />
+  </a>
+  <a href="项目3链接">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=项目名B&theme=transparent" />
+  </a>
+</p>
+
+> **💡 提示：** 这里推荐使用 GitHub Pin 卡片样式，它能自动显示 Star 数和主要语言，看起来非常专业。
+
+---
+
+### 🛠 我的硬核技术栈
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+---
+
+### 📊 工程活跃度
+![Metrics](https://metrics.lecoq.io/你的用户名?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FShanghai)
+
+---
+
+### 🤝 如何联系我
+<p align="left">
+<a href="mailto:你的邮箱"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 <a href="你的博客链接"><img src="https://img.shields.io/badge/Blog-MySite-orange?style=flat&logo=rss" /></a>
+<a href="你的知乎/B站"><img src="https://img.shields.io/badge/Social-Profile-blue?style=flat&logo=linktree&logoColor=white" /></a>
 </p>
