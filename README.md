@@ -88,5 +88,8 @@
 
 ---
 
-### 🤝 联系我 (Connect)
-[📧 Email](mailto:你的邮箱) | [🔗 LinkedIn](你的链接)
+<p align="left">
+  <a href="mailto:luyang96377@gmail.com">
+    <img src="https://img.shields.io/badge/Email-luyang96377@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
