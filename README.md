@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Yang Lu
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=550&lines=Java+Backend+Expert;AI+&amp;+Robotics+Researcher;LLM+Agent+Architect;On-Device+AI+Engineer" alt="Typing SVG" /></a>
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=550&lines=Distributed+Systems+Architect;AI+%26+Robotics+Researcher;LLM+Agent+Architect;On-Device+AI+Expert" alt="Typing SVG" /> </p>
 
 ### 📖 About Me
 > 🚀 **Cross-domain Developer & Researcher** specializing in the synergy between **High-Performance Distributed Systems** and **Frontier AI**. 
