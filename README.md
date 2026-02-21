@@ -6,10 +6,9 @@
 > Experienced in the full-stack lifecycle: from high-concurrency backend scaling to the deployment of lightweight AI models on edge devices.
 
 ---
-
 ### 🏆 Flagship Project: Distributed E-Commerce Platform & Real-time Recommendation
 
-#### [📂 Repository: Distributed E-Commerce System](https://github.com/YourUsername/ecommerce-repo)
+#### [📂 Repository: Distributed E-Commerce System](https://github.com/YangLu963/-High-Concurrency-Distributed-E-Commerce-Platform)
 **Description**: A robust distributed e-commerce ecosystem designed to support millions of concurrent users, featuring an integrated real-time user behavior analysis and recommendation engine.
 
 * **Core Features:**
